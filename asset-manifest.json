@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aafaa396.css",
+    "main.js": "/static/js/main.3f87c386.js",
+    "static/media/caveat-all-400-normal.woff": "/static/media/caveat-all-400-normal.d37f69bfb09737bc8edf.woff",
+    "static/media/monda-all-400-normal.woff": "/static/media/monda-all-400-normal.c890fbc2a1d0b4f1218d.woff",
+    "static/media/nunito-all-400-normal.woff": "/static/media/nunito-all-400-normal.8f2fc6317388452f7ad1.woff",
+    "static/media/caveat-latin-400-normal.woff2": "/static/media/caveat-latin-400-normal.1c6cdd133ae2b5c89cb1.woff2",
+    "static/media/caveat-cyrillic-400-normal.woff2": "/static/media/caveat-cyrillic-400-normal.f46e4685bca5b72de840.woff2",
+    "static/media/monda-latin-ext-400-normal.woff2": "/static/media/monda-latin-ext-400-normal.01a539714d53e1555319.woff2",
+    "static/media/caveat-cyrillic-ext-400-normal.woff2": "/static/media/caveat-cyrillic-ext-400-normal.7dcbe0603541700d56ce.woff2",
+    "static/media/monda-latin-400-normal.woff2": "/static/media/monda-latin-400-normal.e1606f5ea27885602df2.woff2",
+    "static/media/caveat-latin-ext-400-normal.woff2": "/static/media/caveat-latin-ext-400-normal.6a0007d086b1fd4aede0.woff2",
+    "static/media/nunito-latin-400-normal.woff2": "/static/media/nunito-latin-400-normal.b8644b6e04ecda1cf98b.woff2",
+    "static/media/nunito-latin-ext-400-normal.woff2": "/static/media/nunito-latin-ext-400-normal.e8049e65c49ce687cff1.woff2",
+    "static/media/nunito-cyrillic-ext-400-normal.woff2": "/static/media/nunito-cyrillic-ext-400-normal.f21ac09511c6fa4f9463.woff2",
+    "static/media/orbitron-all-400-normal.woff": "/static/media/orbitron-all-400-normal.4d39c94102fe5320861e.woff",
+    "static/media/nunito-cyrillic-400-normal.woff2": "/static/media/nunito-cyrillic-400-normal.a0473b5006c28d8a4499.woff2",
+    "static/media/monda-vietnamese-400-normal.woff2": "/static/media/monda-vietnamese-400-normal.4eab0ab3b0f6f124e8e7.woff2",
+    "static/media/orbitron-latin-400-normal.woff2": "/static/media/orbitron-latin-400-normal.66d6f5814af1d6cb84b3.woff2",
+    "static/media/nunito-vietnamese-400-normal.woff2": "/static/media/nunito-vietnamese-400-normal.6a8bc7acd205391fb71a.woff2",
+    "index.html": "/index.html",
+    "main.aafaa396.css.map": "/static/css/main.aafaa396.css.map",
+    "main.3f87c386.js.map": "/static/js/main.3f87c386.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aafaa396.css",
+    "static/js/main.3f87c386.js"
+  ]
+}
